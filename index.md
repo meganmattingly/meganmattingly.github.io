@@ -11,6 +11,14 @@ Welcome to my personal website! My name is Megan and I'm a recent graduate of th
 
 ## Explore Projects
 
+My portfolio is organized into three categories: 
+
+- [Undergraduate Projects](undergrad_projects.md)
+
+- [Internship Projects](intern_projects.md)
+
+- [Graduate Projects](grad_projects.md)
+
 ## Contact Information
 
 Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/memattingly/), [GitHub portfolio](https://github.com/meganmattingly), or download my [resume](assets/Resume.pdf)! 
