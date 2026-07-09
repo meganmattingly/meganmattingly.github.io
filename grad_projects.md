@@ -1,6 +1,6 @@
 # Graduate Projects
 
-Over the course of my masters program, I had the opportunity to work on a variety of different projects, both inside and outside of the classroom. These experiences introduced me to new analytic techniques, built confidence in my existing skills, and taught me more about applying technical skills to business problems. They are described in more detail below. 
+Over the course of my masters program, I had the opportunity to work on a variety of different projects, both inside and outside of the classroom. These experiences introduced me to new analytic techniques, built confidence in my existing skills, and taught me more about applying technical skills to business problems. They are described in detail below. 
 
 ## Graduate Assistantship at the Center for Business Analytics and AI
 
@@ -23,9 +23,31 @@ Another benefit of working with the CBAI was the opportunity to attend events ho
 <p align="center"><em>This poster describes the UC Football project completed in Spring 2026.</em></p>
 
 
-
 ## Capstone Research Project
-More info coming soon! 
+
+The most comprehensive project of the masters program was my capstone research project. Since the program was only one year, this means that the project was completed alongside a full courseload in the spring semester, essentially like an independent study. I wanted to work on a project that blended my personal interests with technical work, so I decided to explore soccer analytics. I found data related to player performance and their market valuations and began developing predictive models. The results were showcased using an interactive Tableau dashboard (pictured below), making them accessible and actionable for non-technical users. This [GitHub repository](https://github.com/meganmattingly/capstone-research-project) contains the associated data and code files used to complete the project, as well as a more in-depth description of the analytic approach and results. 
+
+<p align = "center">
+<img width="600" height="300" alt="Screenshot 2026-06-25 160613" src="https://github.com/user-attachments/assets/25fbb3e1-bab1-41ff-b278-dc95f6b54497" />
+</p>
+
+The [project abstract](assets/mattingly_megan_capstone_coverpage_abstract.docx) and [presentation slides](assets/mattingly_megan_capstone_presentation.pptx) are available for download here. 
 
 ## Coursework
-More info coming soon! 
+
+My [GitHub portfolio](https://github.com/meganmattingly) also contains some of the projects completed during my masters courses. Any necessary data and code are hosted there, but some additional files can be found here. 
+
+#### Forecasting and Time Series Analysis
+
+The weekly assignments and final project for this course were written using Quarto documents, which unfortunately do not render properly on GitHub. I've included the HTML versions below:
+
+- [Assignment 2: Data Decription, Exploratory Analysis, and Decomposition](assets/Assignment_2.html)
+
+- [Assignment 3: ARIMA Modeling](assets/Assignment_3.html)
+
+- [Assignment 4: Model Selection and Validation](assets/Assignment_4.html)
+
+- [Assignment 5:Forecasting with Prophet](assets/Assignment_5.html)
+
+- [Final Project](assets/Final_Project.html)
+
