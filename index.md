@@ -13,15 +13,15 @@ Welcome to my personal website! My name is Megan and I'm a recent graduate of th
 
 My portfolio is organized into three categories: 
 
-- [Undergraduate Projects](undergrad_projects.md)
+- [Graduate Projects](grad_projects.md)
 
 - [Internship Projects](intern_projects.md)
 
-- [Graduate Projects](grad_projects.md)
+- [Undergraduate Projects](undergrad_projects.md)
 
 ## Contact Information
 
-Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/memattingly/), [GitHub portfolio](https://github.com/meganmattingly), or download my [resume](assets/Resume.pdf)! 
+Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/memattingly/), [GitHub portfolio](https://github.com/meganmattingly), [Tableau public profile](https://public.tableau.com/app/profile/megan.mattingly5449/vizzes), or download my [resume](assets/Resume.pdf)! 
 
 You can reach me at meganmattingly10@gmail.com.  
 
