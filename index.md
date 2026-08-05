@@ -21,7 +21,7 @@ My portfolio is organized into three categories:
 
 ## Contact Information
 
-Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/memattingly/), [GitHub portfolio](https://github.com/meganmattingly), [Tableau public profile](https://public.tableau.com/app/profile/megan.mattingly5449/vizzes), or download my [resume](assets/Resume.pdf)! 
+Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/memattingly/), [GitHub portfolio](https://github.com/meganmattingly), [Tableau public profile](https://public.tableau.com/app/profile/megan.mattingly5449/vizzes), or download my [resume](assets/mattingly_resume.pdf)! 
 
 You can reach me at meganmattingly10@gmail.com.  
 
